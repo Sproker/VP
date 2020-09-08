@@ -1,1 +1,1 @@
-#Veebiprogrammeerimise kursus.
+# Veebiprogrammeerimise kursuse repositoorium.
